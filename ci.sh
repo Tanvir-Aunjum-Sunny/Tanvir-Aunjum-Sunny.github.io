@@ -65,7 +65,7 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-git commit -m "Commit#1: Project intialized with forala template and readme.md template"
+git commit -m "Commit#2: profile updated"
 
 ############
 # Step: 05 #
