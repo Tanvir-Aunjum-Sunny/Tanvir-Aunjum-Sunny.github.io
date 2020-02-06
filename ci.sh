@@ -65,7 +65,7 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-git commit -m "Commit#2: profile updated"
+git commit -m "Commit#3: 4/1/20 latest update"
 
 ############
 # Step: 05 #
